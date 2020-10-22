@@ -1,0 +1,19 @@
+{
+  "name": "block_notas_app",
+  "version": "1.0.0",
+  "description": "This is a note app. The requeriments are  *see all the notes *save a note *filter notes between state pendant or not *error handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezequielRiveros/App_note.git"
+  },
+  "author": "ezequiel_riveros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezequielRiveros/App_note/issues"
+  },
+  "homepage": "https://github.com/ezequielRiveros/App_note#readme"
+}
