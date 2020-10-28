@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ezequielRiveros/App_note/issues"
   },
-  "homepage": "https://github.com/ezequielRiveros/App_note#readme"
+  "homepage": "https://github.com/ezequielRiveros/App_note#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
